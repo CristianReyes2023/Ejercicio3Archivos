@@ -1,0 +1,90 @@
+{
+    "1": {
+        "reporteNumero": "1",
+        "fecha": "17:48:07 16-07-2023",
+        "idTrainer": "03407",
+        "nombreTrainer": "DIEGO",
+        "emailPersonal": "diego@",
+        "emailCorporativo": "diegocampus@",
+        "telefonoMovil": "545613",
+        "telefonoResidencia": "543",
+        "telefonoEmpresa": "15512",
+        "detalleReporte": {
+            "categoria": "HARDWARE",
+            "insidencia": "MODERADO",
+            "elementoAfectado": "DIADEMAS",
+            "descripcion": null
+        },
+        "lugarReporte": {
+            "area": "safsaf",
+            "salon": "Area Com\u00fan",
+            "idEquipo": "1"
+        }
+    },
+    "2": {
+        "reporteNumero": "2",
+        "fecha": "18:47:53 16-07-2023",
+        "idTrainer": "07463",
+        "nombreTrainer": "PIPE",
+        "emailPersonal": "pipe@",
+        "emailCorporativo": "pipecampus@",
+        "telefonoMovil": "3215325",
+        "telefonoResidencia": "235345",
+        "telefonoEmpresa": "23451",
+        "detalleReporte": {
+            "categoria": "SOFTWARE",
+            "insidencia": "CRITICO",
+            "elementoAfectado": "TECLADOS",
+            "descripcion": "Se genero un da\u00f1o en el techado"
+        },
+        "lugarReporte": {
+            "area": "AREA TRAINING",
+            "salon": "SKYLAB",
+            "idEquipo": "43"
+        }
+    },
+    "3": {
+        "reporteNumero": "3",
+        "fecha": "20:23:15 16-07-2023",
+        "idTrainer": "05372",
+        "nombreTrainer": "MIGUEL",
+        "emailPersonal": "miguel@",
+        "emailCorporativo": "miguelcampus\u2666",
+        "telefonoMovil": "3224",
+        "telefonoResidencia": "53453",
+        "telefonoEmpresa": "234",
+        "detalleReporte": {
+            "categoria": "SOFTWARE",
+            "insidencia": "CRITICO",
+            "elementoAfectado": "COMPUTADORES",
+            "descripcion": "No se inicia el PC"
+        },
+        "lugarReporte": {
+            "area": "AREA TRAINING",
+            "salon": "ARTEMIS",
+            "idEquipo": "23"
+        }
+    },
+    "4": {
+        "reporteNumero": "4",
+        "fecha": "20:24:16 16-07-2023",
+        "idTrainer": "07255",
+        "nombreTrainer": "ANDRES",
+        "emailPersonal": "andres@",
+        "emailCorporativo": "andrescampus@",
+        "telefonoMovil": "3242",
+        "telefonoResidencia": "5353",
+        "telefonoEmpresa": "2342",
+        "detalleReporte": {
+            "categoria": "SOFTWARE",
+            "insidencia": "MODERADO",
+            "elementoAfectado": "DIADEMAS",
+            "descripcion": "Est\u00e1 da\u00f1ado el elemento"
+        },
+        "lugarReporte": {
+            "area": "AREA TRAINING",
+            "salon": "APOLO",
+            "idEquipo": "32"
+        }
+    }
+}
